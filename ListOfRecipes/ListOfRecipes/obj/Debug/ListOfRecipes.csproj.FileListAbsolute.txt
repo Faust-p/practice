@@ -1,0 +1,15 @@
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\bin\Debug\ListOfRecipes.exe.config
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\bin\Debug\ListOfRecipes.exe
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\bin\Debug\ListOfRecipes.pdb
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.csproj.AssemblyReference.cache
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.csproj.SuggestedBindingRedirects.cache
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.Form1.resources
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.Properties.Resources.resources
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.csproj.GenerateResource.cache
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.csproj.CoreCompileInputs.cache
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.exe
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.pdb
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.RecipeForm.resources
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\bin\Debug\Newtonsoft.Json.dll
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\bin\Debug\Newtonsoft.Json.xml
+C:\PGU\BD\ListOfRecipes\ListOfRecipes\obj\Debug\ListOfRecipes.csproj.CopyComplete

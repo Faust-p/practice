@@ -1,0 +1,135 @@
+[
+  {
+    "Name": "Десерты",
+    "Recipes": [
+      {
+        "Name": "Торт 'Наполеон'",
+        "Ingredients": [
+          {
+            "Name": "Мука",
+            "Quantity": 2.0
+          },
+          {
+            "Name": "Сахар",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Масло",
+            "Quantity": 3.0
+          }
+        ],
+        "Description": "Описание торта 'Наполеон'",
+        "GroupName": "Десерты"
+      },
+      {
+        "Name": "Шоколадный браунис",
+        "Ingredients": [
+          {
+            "Name": "Мука",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Какао",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Сахар",
+            "Quantity": 1.0
+          }
+        ],
+        "Description": "Описание шоколадного брауниса",
+        "GroupName": "Десерты"
+      }
+    ]
+  },
+  {
+    "Name": "Основные блюда",
+    "Recipes": [
+      {
+        "Name": "Борщ",
+        "Ingredients": [
+          {
+            "Name": "Капуста",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Картофель",
+            "Quantity": 2.0
+          },
+          {
+            "Name": "Мясо",
+            "Quantity": 3.0
+          }
+        ],
+        "Description": "Описание борща",
+        "GroupName": "Основные блюда"
+      },
+      {
+        "Name": "Спагетти карбонара",
+        "Ingredients": [
+          {
+            "Name": "Спагетти",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Яйца",
+            "Quantity": 2.0
+          },
+          {
+            "Name": "Гуанчиале",
+            "Quantity": 0.5
+          }
+        ],
+        "Description": "Описание спагетти карбонара",
+        "GroupName": "Основные блюда"
+      }
+    ]
+  },
+  {
+    "Name": "Горячие блюда",
+    "Recipes": [
+      {
+        "Name": "Пицца",
+        "Ingredients": [
+          {
+            "Name": "Сыр",
+            "Quantity": 4.0
+          },
+          {
+            "Name": "Мука",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Томат",
+            "Quantity": 5.0
+          }
+        ],
+        "Description": "4 сыра",
+        "GroupName": "Горячие блюда"
+      },
+      {
+        "Name": "Бургер",
+        "Ingredients": [
+          {
+            "Name": "Котлета",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Булочка",
+            "Quantity": 2.0
+          },
+          {
+            "Name": "Сыр",
+            "Quantity": 1.0
+          },
+          {
+            "Name": "Томат",
+            "Quantity": 2.0
+          }
+        ],
+        "Description": "Описание бургера",
+        "GroupName": "Горячие блюда"
+      }
+    ]
+  }
+]
